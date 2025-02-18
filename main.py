@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-# Creates the charts folder to hold the charts created by the program
+# Create the charts folder to hold the charts created by the program
 os.makedirs("charts", exist_ok=True)
 
 
