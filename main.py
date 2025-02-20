@@ -18,6 +18,9 @@ breeds_to_include = [
     "Chow Chow", "German Shepherd Dog", "Golden Retriever", "Great Dane", "Greyhound"
 ]
 
+# If you have an API key, add it here
+headers = {"x-api-key": "YOUR_API_KEY"}  # Replace with your API key
+
 # API url
 url = "https://api.thedogapi.com/v1/breeds"
 
