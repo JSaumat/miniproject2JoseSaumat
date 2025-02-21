@@ -14,8 +14,10 @@ os.makedirs("charts", exist_ok=True)
 
 # List of the 10 breeds to include
 breeds_to_include = [
+
     "Boxer", "Beagle", "Alaskan Husky", "Basset Hound", "Border Collie",
     "Chow Chow", "German Shepherd Dog", "Golden Retriever", "Great Dane", "Greyhound"
+
 ]
 
 # If you have an API key, add it here

@@ -1,3 +1,5 @@
+# miniproject2JoseSaumat
+
 ### INF601 - Advanced Programming in Python
 ### Jose Saumat
 ### Mini Project 2
@@ -5,64 +7,41 @@
 
 # Mini Project 2
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project will be using the packages Pandas and Matplotlib in order to answer the question "What is the maximum and minimum life expectancy of my favorite dog breeds?"
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+pip install -r requirements.txt
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+python main.py
 ```
 
-## Help
+### Output
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+This program should create a single stem plot graph with clear information as to the maximum and minimum life expectancy of my favorite dog breeds. It will also print the information in the console for the user.
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+- Jose Saumat
+- Jason Zeller (via Tutorials)
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Jason Zeller](https://www.youtube.com/watch?v=fFss4RzSkOU)
+* [The Dog API](https://www.thedogapi.com/)
+* [The Dog API](https://documenter.getpostman.com/view/4016432/the-dog-api/RW81vZ4Z#26bd3f92-dd58-4569-bc13-22fa76396fe8)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html)
+* [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stem.html)
+* [Arpan Neupane](https://www.youtube.com/watch?app=desktop&v=bKCORrHbutQ&t=12s)
