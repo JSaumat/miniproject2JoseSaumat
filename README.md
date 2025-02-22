@@ -43,8 +43,13 @@ Contributors names and contact info
 
 Inspiration, code snippets, etc.
 * [Jason Zeller](https://www.youtube.com/watch?v=fFss4RzSkOU)
+* [Jason Zeller](https://www.youtube.com/watch?v=fmvbY3zkVXc)
+* [Jason Zeller](https://www.youtube.com/watch?v=WOs5oqXI7EA)
+* [Jason Zeller](https://www.youtube.com/watch?v=urdd8dIV97U)
+* [Arpan Neupane](https://www.youtube.com/watch?app=desktop&v=bKCORrHbutQ&t=12s)
+
+API and Package documentation
 * [The Dog API](https://www.thedogapi.com/)
 * [The Dog API](https://documenter.getpostman.com/view/4016432/the-dog-api/RW81vZ4Z#26bd3f92-dd58-4569-bc13-22fa76396fe8)
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html)
 * [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stem.html)
-* [Arpan Neupane](https://www.youtube.com/watch?app=desktop&v=bKCORrHbutQ&t=12s)
