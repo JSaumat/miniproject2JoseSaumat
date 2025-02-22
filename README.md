@@ -13,6 +13,9 @@ This project will be using the packages Pandas and Matplotlib in order to answer
 
 ## Getting Started
 
+I have had no issues running this program without the API key. However, if it fails or lets you know you need an API key, please visit https://www.thedogapi.com/ and register for a free API key.
+Once you have your API key in your email, proceed to line 39 in the main.py file and paste in your API key inside the quotations where it says "YOUR_API_KEY_GOES_IN_HERE".
+
 ### Dependencies
 
 ```

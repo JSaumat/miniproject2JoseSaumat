@@ -36,7 +36,7 @@ breeds_to_include = [
 ]
 
 # If you have an API key, add it here
-headers = {"x-api-key": "YOUR_API_KEY"}  # Replace with your API key
+headers = {"x-api-key": "YOUR_API_KEY_GOES_IN_HERE"}  # Replace the text inside the quotations YOUR_API_KEY with your API key
 
 # API url
 url = "https://api.thedogapi.com/v1/breeds"
